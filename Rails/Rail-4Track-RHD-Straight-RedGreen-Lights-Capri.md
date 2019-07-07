@@ -8,3 +8,7 @@ Included in this section is:
     * Red / Green wire
     * Lights
     * Rail signal (begin of section)
+
+### Screenshot(s)
+[Straigth-4Lane-Track](https://raw.githubusercontent.com/BartVandyck/Factorio/master/Rails/Rail-4Track-RHD-Straight-RedGreen-Lights-Doxie.png)
+
